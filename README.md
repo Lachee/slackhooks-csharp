@@ -9,23 +9,24 @@ Feel free to modify, add and change as you wish. I will be happy to accept any m
 
 ### Sister Libraries
 Be sure to check out the sister libraries that are in various different lanaguages!
-Name | Language | Link
------|----------|------
-Slackhooks | PHP | https://github.com/Lachee/slackhooks
-Slackhooks CSharp | C# | https://github.com/Lachee/slackhooks-csharp
+
+Name			| Lang| Link
+------------------------|-----|--------------------------------------------
+Slackhooks 		| PHP | https://github.com/Lachee/slackhooks
+Slackhooks CSharp 	| C#  | https://github.com/Lachee/slackhooks-csharp
 
 
 ## Setup ##
 It is incredibly easy to use this library! 
-1. Download or copy the contents of webhook.php to a file of your choosing.
-2. Include the SlackWebhooks library to any code you plan to use it with
+	1.  Download or copy the contents of webhook.php to a file of your choosing.
+	2.  Include the SlackWebhooks library to any code you plan to use it with
 	```csharp
    	using SlackWebhooks;
 	```
-3. Profit?
+	3.  Profit?
 
 To be fair, there are some other minor steps to get it working. For example, you must grab your Incoming Webhook URL from slack. It should look like this:
-```https://hooks.slack.com/services/XXXXXXXXX/YYYYYYYYY/ZZZZZZZZZZZZZZZZZZZZZZZZ```
+``` https://hooks.slack.com/services/XXXXXXXXX/YYYYYYYYY/ZZZZZZZZZZZZZZZZZZZZZZZZ ```
 
 Once you have your hook, you are ready to go! Follow the tutorials below to find more details!
 

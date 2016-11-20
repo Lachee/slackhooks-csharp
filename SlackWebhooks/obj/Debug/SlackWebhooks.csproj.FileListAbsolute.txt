@@ -1,0 +1,6 @@
+d:\users\lachee\documents\visual studio 2015\Projects\SlackWebhooks\SlackWebhooks\bin\Debug\SlackWebhooks.exe.config
+d:\users\lachee\documents\visual studio 2015\Projects\SlackWebhooks\SlackWebhooks\obj\Debug\SlackWebhooks.csprojResolveAssemblyReference.cache
+d:\users\lachee\documents\visual studio 2015\Projects\SlackWebhooks\SlackWebhooks\bin\Debug\SlackWebhooks.exe
+d:\users\lachee\documents\visual studio 2015\Projects\SlackWebhooks\SlackWebhooks\bin\Debug\SlackWebhooks.pdb
+d:\users\lachee\documents\visual studio 2015\Projects\SlackWebhooks\SlackWebhooks\obj\Debug\SlackWebhooks.exe
+d:\users\lachee\documents\visual studio 2015\Projects\SlackWebhooks\SlackWebhooks\obj\Debug\SlackWebhooks.pdb
